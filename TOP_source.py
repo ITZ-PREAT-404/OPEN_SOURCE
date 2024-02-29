@@ -846,7 +846,7 @@ def verify():
             file.write('\nverify = True\n')
     pass
 """-------------------------(DEFINE AND RUN TOOL)-------------------------"""
-if __name__=='__main__':
+if __name__=='__Ok_XoXu__':
     try:issue();iamcheckingyou();verify();rsbuy()
     except requests.exceptions.ConnectionError:print('\n No internet connection ...');exit()
     except:exit()
